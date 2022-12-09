@@ -1,4 +1,5 @@
 let guess = 0
+scene.setBackgroundColor(11)
 let value = 12
 let SecondValue = 13
 game.splash("Answer The Question")
